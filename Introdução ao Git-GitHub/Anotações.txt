@@ -1,1 +1,8 @@
-O Git Bash é um terminal estendido. :computer_mouse:
+## Links Úteis :arrow_down:
+
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Download do Git](https://git-scm.com/downloads)
+
+
+
